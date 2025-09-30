@@ -1,6 +1,6 @@
 clc,clear,close all
 %% Truss No.
-FN='DATA120';
+FN='boxTruss';
 % FN='DATA25';
 %% Input Data
 TrussData = xlsread(FN,1);
